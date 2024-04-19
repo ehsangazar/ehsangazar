@@ -13,4 +13,5 @@ With over a decade of hands-on experience in software engineering, I've honed my
    - Twitter: [@ehsangazar]([Twitter URL](https://twitter.com/ehsangazar))
    - Website: [gazar.dev](https://gazar.dev/)
    - Email: me@gazar.dev
+
 Let's connect and collaborate on exciting projects!
