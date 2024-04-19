@@ -9,8 +9,8 @@ With over a decade of hands-on experience in software engineering, I've honed my
 😄 Pronouns: he/him <br />
 ⚡ Fun fact: I am secretary of a not-for-profit Hiking Group and made this website for them [clubcp.app](https://clubcp.app) <br />
 📫 How to reach me: <br />
-   - Linkedin: [@gazar]([LinkedIn URL](https://www.linkedin.com/in/gazar/))
-   - Twitter: [@ehsangazar]([Twitter URL](https://twitter.com/ehsangazar))
+   - Linkedin: [@gazar](https://www.linkedin.com/in/gazar/)
+   - Twitter: [@ehsangazar](https://twitter.com/ehsangazar)
    - Website: [gazar.dev](https://gazar.dev/)
    - Email: me@gazar.dev
 
