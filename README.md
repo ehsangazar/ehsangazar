@@ -5,7 +5,7 @@ With over a decade of hands-on experience in software engineering, I've honed my
 
 🌏 I live in London, UK <br />
 🔭 I’m currently writing on my website [gazar.dev](https://gazar.dev) <br />
-💬 I help engineers with their questions/interviews/career: [adp](https://adplist.org/mentors/ehsan-gazar) <br />
+💬 I help engineers with their questions/interviews/career: [ADP List](https://adplist.org/mentors/ehsan-gazar) <br />
 😄 Pronouns: he/him <br />
 ⚡ Fun fact: I am secretary of a not-for-profit Hiking Group and made this website for them [clubcp.app](https://clubcp.app) <br />
 📫 How to reach me: <br />
