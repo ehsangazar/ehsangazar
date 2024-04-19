@@ -10,9 +10,9 @@ Greetings! I'm Gaz, a seasoned Principal Engineer and Team Leader based in Londo
 ⚡ Fun fact 1: I serve as the secretary of a not-for-profit Hiking Group and developed their website [CLUBCP.APP](https://clubcp.app) <br />
 ⚡ Fun fact 2: During the pandemic, I created and recorded 7 programming courses, reaching over 10k students. [MAKTAB](https://maktabkhooneh.org/teacher/ehsan-gazar/) <br />
 📫 How to reach me: <br />
-   - Linkedin: [@gazar](https://www.linkedin.com/in/gazar/)
-   - Twitter: [@ehsangazar](https://twitter.com/ehsangazar)
-   - Website: [gazar.dev](https://gazar.dev/)
-   - Email: me@gazar.dev
+   - Linkedin: [@GAZAR](https://www.linkedin.com/in/gazar/)
+   - Twitter: [@EHSANGAZAR](https://twitter.com/ehsangazar)
+   - Website: [GAZAR.DEV](https://gazar.dev/)
+   - Email: ME@GAZAR.DEV
 
 Let's connect and collaborate on exciting projects! 🚀
