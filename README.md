@@ -8,7 +8,7 @@ Greetings! I'm Gaz, a seasoned Principal Engineer and Team Leader based in Londo
 💬 Providing guidance on engineering questions, interviews, and career development via [ADP](https://adplist.org/mentors/ehsan-gazar) <br />
 😄 Pronouns: he/him <br />
 ⚡ Fun fact 1: I serve as the secretary of a not-for-profit Hiking Group and developed their website [clubcp.app](https://clubcp.app) <br />
-⚡ Fun fact 2: During the pandemic, I created and recorded 7 programming courses, reaching over 10k students. [Maktab](https://maktabkhooneh.org/teacher/ehsan-gazar/) <br />
+⚡ Fun fact 2: During the pandemic, I created and recorded 7 programming courses, reaching over 10k students. [maktab](https://maktabkhooneh.org/teacher/ehsan-gazar/) <br />
 📫 How to reach me: <br />
    - Linkedin: [@gazar](https://www.linkedin.com/in/gazar/)
    - Twitter: [@ehsangazar](https://twitter.com/ehsangazar)
