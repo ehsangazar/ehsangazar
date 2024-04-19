@@ -1,17 +1,18 @@
 ### Welcome to Gaz's GitHub Profile! 👋
 
 #### About Me
-With over a decade of hands-on experience in software engineering, I've honed my skills as a Principal Engineer and Team Leader. My passion lies in architecting scalable solutions and empowering teams to achieve their full potential. Leading by example, I champion a culture of continuous learning and innovation. Whether it's diving into complex code challenges or mentoring junior developers, I thrive on pushing boundaries and driving impactful results. From designing robust software architectures to optimizing performance and ensuring best practices, I'm committed to delivering excellence in every aspect of my work. Let's embark on a journey of technical excellence and growth together!
+Greetings! I'm Gaz, a seasoned Principal Engineer and Team Leader based in London, UK. With over a decade of hands-on experience in software engineering, I specialize in architecting scalable solutions and fostering high-performing teams. My passion for technology extends beyond the realm of code; I thrive on empowering individuals to reach their full potential and fostering a culture of continuous learning and innovation.
 
-🌏 I live in London, UK <br />
-🔭 I’m currently writing on my website [gazar.dev](https://gazar.dev) <br />
-💬 I help engineers with their questions/interviews/career: [ADP List](https://adplist.org/mentors/ehsan-gazar) <br />
+🌏 Located in London, UK
+🔭 Currently writing on my website [gazar.dev](https://gazar.dev) <br />
+💬 Providing guidance on engineering questions, interviews, and career development via [ADP](https://adplist.org/mentors/ehsan-gazar) <br />
 😄 Pronouns: he/him <br />
-⚡ Fun fact: I am secretary of a not-for-profit Hiking Group and made this website for them [clubcp.app](https://clubcp.app) <br />
+⚡ Fun fact 1: I serve as the secretary of a not-for-profit Hiking Group and developed their website [clubcp.app](https://clubcp.app) <br />
+⚡ Fun fact 2: During the pandemic, I created and recorded 7 programming courses, reaching over 10k students. You can find them on [Maktab](https://clubcp.app](https://maktabkhooneh.org/teacher/ehsan-gazar/) website <br />
 📫 How to reach me: <br />
    - Linkedin: [@gazar](https://www.linkedin.com/in/gazar/)
    - Twitter: [@ehsangazar](https://twitter.com/ehsangazar)
    - Website: [gazar.dev](https://gazar.dev/)
    - Email: me@gazar.dev
 
-Let's connect and collaborate on exciting projects!
+Let's connect and collaborate on exciting projects! 🚀
