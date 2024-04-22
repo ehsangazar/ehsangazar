@@ -7,7 +7,7 @@ Greetings! I'm Gaz, a seasoned Principal Engineer and Team Leader based in Londo
 🔭 Currently working on:
    - Writing on my website [gazar.dev](https://gazar.dev)
    - XML Sitemap Simply By Scraping a Domain [xml-sitemap-generator](https://github.com/ehsangazar/xml-sitemap-generator)
-   - Calendar/DatePicker App written in Tailwind [Hot Scheduler](https://www.npmjs.com/package/hot-scheduler)
+   - Calendar/DatePicker App written in Tailwind [hot-scheduler](https://www.npmjs.com/package/hot-scheduler)
    
 💬 Providing guidance on engineering questions, interviews, and career development via [adp](https://adplist.org/mentors/ehsan-gazar) \
 😄 Pronouns: he/him \
