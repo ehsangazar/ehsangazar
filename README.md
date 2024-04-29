@@ -1,7 +1,7 @@
 ### Welcome to Gaz's GitHub Profile! 👋
 
 #### About Me
-Greetings! I'm Gaz, a seasoned Principal Engineer and Team Leader based in London, UK. With over a decade of hands-on experience in software engineering, I specialize in architecting scalable solutions and fostering high-performing teams. My passion for technology extends beyond the realm of code; I thrive on empowering individuals to reach their full potential and fostering a culture of continuous learning and innovation.
+Greetings! I'm Gaz, a Principal Engineer and Team Leader based in London, UK. With over a decade of hands-on experience in software engineering, I specialize in architecting scalable solutions and fostering high-performing teams. My passion for technology extends beyond the realm of code; I thrive on empowering individuals to reach their full potential and fostering a culture of continuous learning and innovation.
 
 🌏 Located in London, UK \
 🔭 Currently working on:
