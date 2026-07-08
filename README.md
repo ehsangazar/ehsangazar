@@ -1,6 +1,6 @@
 ### Hi, I'm Ehsan Gazar 👋
 
-#### Principal Engineer · Writer · Mentor
+#### Staff Software Engineer · Writer · Mentor
 
 I'm a Principal Engineer with 16+ years of experience in real-world architectural decisions, based in London, UK. I write about system design, mentor engineers moving toward staff and principal roles, and teach what I've learned the hard way.
 
