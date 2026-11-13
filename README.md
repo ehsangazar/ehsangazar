@@ -1,11 +1,12 @@
 ### Hi, I'm Ehsan Gazar 👋
 
-#### Staff Software Engineer · Writer · Mentor
+#### AI Transformation Lead · Staff Engineer at Tipalti · 15,000+ students
 
-I'm a Principal Engineer with 16+ years of experience in real-world architectural decisions, based in London, UK. I write about system design, mentor engineers moving toward staff and principal roles, and teach what I've learned the hard way.
+I'm an AI Transformation Lead and Staff Engineer at Tipalti, based in London, UK, with 16+ years of shipping software and 15,000+ students taught. I help companies and their engineers take AI from a working demo to a production system people actually use, and I write and teach about system design and engineering leadership.
 
 🌍 Located in London, UK \
-🔭 Currently working at Tipalti as a Software Engineer \
+🔭 Staff Software Engineer at Tipalti \
+🤖 Helping companies and their engineers take AI from demo to production \
 ✍️ Writing 470+ articles on system design, TypeScript, clean code, and lessons from shipping real software at [gazar.dev](https://gazar.dev) \
 🎙️ Host of [Gazar Breakpoint](https://gazar.dev/podcast) — weekly deep dives into system design and the senior-to-staff engineering gap \
 📬 Send the [Monday by Gazar](https://gazar.dev) newsletter — one idea, one lesson, one thing worth reading every Monday \
@@ -15,6 +16,7 @@ I'm a Principal Engineer with 16+ years of experience in real-world architectura
 
 #### 📊 By the numbers
 
+- **15,000+** Students Taught
 - **15+** Years Leading Teams
 - **120+** Engineers Mentored
 - **40+** Talks & Workshops
@@ -28,12 +30,13 @@ I'm a Principal Engineer with 16+ years of experience in real-world architectura
 |------|-------|-----------|
 | 2008 | Tehran | Wrote my first line of code. No CS degree yet, just curiosity and a borrowed laptop. |
 | 2016 | New continent | Moved to the other side of the world. Learned what it means to build software that real people depend on. |
-| Now | London | Principal Engineer. Writing, mentoring, and building products — still learning every day. |
+| Now | London | AI Transformation Lead and Staff Engineer at Tipalti. Taking AI from demo to production, writing, mentoring, and still learning every day. |
 
 ---
 
 #### 💼 What I do
 
+- **Transform**: help companies find where AI pays off, then build and run it in production, with training for leaders, managers and teams → [Get in touch](https://gazar.dev/mentorship)
 - **Write** — 470+ articles on system design, TypeScript, clean code, and the lessons that only show up after you ship → [Read the writing](https://gazar.dev)
 - **Mentor** — 1:1 sessions for engineers navigating the gap between senior and staff — honest, practical, and direct → [Book a session](https://gazar.dev/mentorship)
 - **Teach** — System design courses for engineers who want to go deeper — from trade-offs and patterns to real-world architecture decisions → [See the courses](https://gazar.dev/courses)
