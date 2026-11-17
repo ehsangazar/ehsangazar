@@ -1,61 +1,53 @@
 ### Hi, I'm Ehsan Gazar 👋
 
-#### AI Transformation Lead · Staff Engineer at Tipalti · 15,000+ students
+#### Staff Software Engineer at Tipalti · AI agents in production · 15,000+ students
 
-I'm an AI Transformation Lead and Staff Engineer at Tipalti, based in London, UK, with 16+ years of shipping software and 15,000+ students taught. I help companies and their engineers take AI from a working demo to a production system people actually use, and I write and teach about system design and engineering leadership.
+I take AI from a demo to something people use every day. I start from the workflow, not the model: map the work end to end with the people who do it, agree what success and risk look like, then build the fix, ship it and track whether people actually change how they work.
 
-🌍 Located in London, UK \
+At Tipalti I build production AI agents for the Expenses domain, run about 25 Claude Code agents my team relies on daily, and led the company-wide AI Weeks. Outside Tipalti I teach on Maven and write at [gazar.dev](https://gazar.dev).
+
+🌍 London, UK \
 🔭 Staff Software Engineer at Tipalti \
-🤖 Helping companies and their engineers take AI from demo to production \
-✍️ Writing 470+ articles on system design, TypeScript, clean code, and lessons from shipping real software at [gazar.dev](https://gazar.dev) \
-🎙️ Host of [Gazar Breakpoint](https://gazar.dev/podcast) — weekly deep dives into system design and the senior-to-staff engineering gap \
-📬 Send the [Monday by Gazar](https://gazar.dev) newsletter — one idea, one lesson, one thing worth reading every Monday \
+🤖 AI agents, Claude, Claude Code and MCP in production \
+✍️ 470+ articles on AI engineering, system design and engineering leadership at [gazar.dev](https://gazar.dev) \
+🎓 Teaching AI Transformation for Organisational Leaders and Production-Ready Systems with LLMs and Agents on [Maven](https://maven.com/gazar) \
 😀 Pronouns: he/him
 
 ---
 
-#### 📊 By the numbers
+#### 🤖 What I work on
 
-- **15,000+** Students Taught
-- **15+** Years Leading Teams
-- **120+** Engineers Mentored
-- **40+** Talks & Workshops
-- **60+** Products Shipped
-
----
-
-#### 🛤️ The journey
-
-| Year | Place | Milestone |
-|------|-------|-----------|
-| 2008 | Tehran | Wrote my first line of code. No CS degree yet, just curiosity and a borrowed laptop. |
-| 2016 | New continent | Moved to the other side of the world. Learned what it means to build software that real people depend on. |
-| Now | London | AI Transformation Lead and Staff Engineer at Tipalti. Taking AI from demo to production, writing, mentoring, and still learning every day. |
+- **Agents in production:** agents for production health, release watching, Slack questions and ops tickets, built with Claude Code skills, sub-agents, hooks and MCP servers.
+- **Reliability, not demos:** evals on real data, LLM-as-judge, human review where a mistake is costly, access controls, logging, rollback, cost and latency budgets.
+- **Workflow redesign:** tracing work across teams and systems, writing specs, and being honest about when a plain script or a bought product beats building an agent.
+- **Adoption:** teaching teams and leaders to change how the work gets done, not just how fast someone writes an email.
 
 ---
 
-#### 💼 What I do
+#### 🧪 Open labs and starters
 
-- **Transform**: help companies find where AI pays off, then build and run it in production, with training for leaders, managers and teams → [Get in touch](https://gazar.dev/mentorship)
-- **Write** — 470+ articles on system design, TypeScript, clean code, and the lessons that only show up after you ship → [Read the writing](https://gazar.dev)
-- **Mentor** — 1:1 sessions for engineers navigating the gap between senior and staff — honest, practical, and direct → [Book a session](https://gazar.dev/mentorship)
-- **Teach** — System design courses for engineers who want to go deeper — from trade-offs and patterns to real-world architecture decisions → [See the courses](https://gazar.dev/courses)
+- [maven-llms-and-agents-6-weeks](https://github.com/ehsangazar/maven-llms-and-agents-6-weeks): companion labs for Production-Ready Systems with LLMs and Agents
+- [lightning-lesson-context-engineering-starter](https://github.com/ehsangazar/lightning-lesson-context-engineering-starter): price a context window like a budget
+- [lightning-lesson-spec-driven-starter](https://github.com/ehsangazar/lightning-lesson-spec-driven-starter): executable specs and a gate for coding-agent diffs
+- [lightning-lesson-supply-chain-starter](https://github.com/ehsangazar/lightning-lesson-supply-chain-starter): audit an agent skill or MCP server before you install it
+- [lightning-lesson-ai-workflows-starter](https://github.com/ehsangazar/lightning-lesson-ai-workflows-starter): five ways to wire an LLM into a system, measured
 
 ---
 
 #### 🛠️ Tech I work with
 
-`TypeScript` `React` `NextJS` `NX` `GraphQL` `Apollo` `NodeJS` `AWS` `Azure` `Remix` `Svelte` `Storybook` `Electron` `Datadog` `Sitecore`
+AI: `Claude` `Claude Code` `MCP` `Mastra` `AWS AgentCore` `RAG` `Evals` \
+Engineering: `TypeScript` `Node.js` `React` `Next.js` `GraphQL` `AWS` `Kubernetes` `Kafka` `Terraform` `Datadog`
 
 ---
 
-#### 🎤 Recent talks
+#### 🎤 Talks
 
-- **MicroFrontEnd at Scale** *(January 2024)*
-- **Do You Believe in Magic? Time to Move to Remix** *(December 2023)*
-- **How to be an effective software engineering leader** *(October 2023)*
-- **How to Learn - How to Teach** *(October 2023)*
-- **Software Architecture Patterns** *(October 2022)*
+- **Spec-driven development masterclass**, Tipalti Tech Forum *(May 2026)*
+- **MicroFrontEnd at Scale**, Web Directions *(2024)*
+- **Do You Believe in Magic? Time to Move to Remix**, MelbJS *(2023)*
+- **How to be an effective software engineering leader** *(2023)*
+- **Software Architecture Patterns** *(2022)*
 
 ---
 
